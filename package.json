@@ -1,0 +1,15 @@
+{
+  "name": "Create-React-Meteor-App",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.20.0",
+    "core-js": "^2.5.1",
+    "meteor-node-stubs": "~0.2.4",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "sdp-transform": "^2.3.0"
+  }
+}
